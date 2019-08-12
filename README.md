@@ -41,7 +41,7 @@ The directory structure created under the data/ directory is conserved for the o
 
 The file config.mk contains pre-selected options with their parameters to run Trimmomatic. Uncomment the desired options and modify the parameters values as convenient. The number of threads can also be specified in config.mk
 
-See the [Trimmomatic Manual: V0.32](http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/TrimmomaticManual_V0.32.pdf) for details.
+See the [Trimmomatic Manual](http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/TrimmomaticManual_V0.32.pdf) for details.
 
 
 ### Author Info ###
