@@ -1,0 +1,16 @@
+#!/bin/bash
+##
+## DESCRIPTION:
+##	Script to print required mk targets to STDOUT.
+## USAGE:
+##	bin/targets
+
+# Targets are only the paired files because 
+# the mkfile recipe includes the unpaired ones.
+#
+find -L data/ \
+	-name '*R1.fastq.gz' \
+| sed -r \
+	-e 's#^data/#results/#' \
+	-e 's#\.fastq\.gz$#.paired.fastq.gz#' \
+| sort
