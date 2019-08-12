@@ -34,8 +34,6 @@ The directory structure created under the data/ directory is conserved for the o
 
 - [`Trimmomatic`](http://www.usadellab.org/cms/?page=trimmomatic)
 
-- [`awk`](cm.bell-labs.com/cm/cs/awkbook/index.html)
-
 
 ### Configuration file ###
 
