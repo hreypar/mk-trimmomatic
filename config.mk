@@ -1,5 +1,5 @@
 # Establish path for trimmomatic pre-built jar and uncomment.
-TRIMMOMATIC_PATH='/media/genomics/disco1/Programs/Trimmomatic-0.36'
+TRIMMOMATIC_PATH="/opt/Trimmomatic-0.39"
 #
 # Here you can set optional parameters for trimmomatic.
 # see <http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/TrimmomaticManual_V0.32.pdf>
