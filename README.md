@@ -44,5 +44,5 @@ See the [Trimmomatic Manual](http://www.usadellab.org/cms/uploads/supplementary/
 
 ### Author Info ###
 
-Based on a 2017 version developed by HRG and [Israel Aguilar](iaguilaror@gmail.com), in collaboration with [Joshua Haase](jihaase@inmegen.gob.mx).
+Based on a 2017 version developed by [HRG](hreypar@gmail.com) and [Israel Aguilar](iaguilaror@gmail.com), in collaboration with [Joshua Haase](jihaase@inmegen.gob.mx).
 
